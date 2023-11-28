@@ -2,14 +2,6 @@
 layout: post
 title: "A Code-Driven Exploration of Key C Language Concepts in a CS1 Class"
 date: 2023-11-28 23:39:13 +0200
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  auto_ids: false
-  toc_levels:     1..3
-  html_to_native: true
-  auto_id_stripping: false
 ---
 
 ## Abstract
