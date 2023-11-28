@@ -1,7 +1,7 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              CoDiS Research Blog
+email:              codis@tugraz.at
+description:        Follow current reserach of the CoDiS Lab Graz
+author:             CoDiS Lab Graz
 baseurl:            "/"
 url:                "https://codis-lab-graz.github.io"
 
